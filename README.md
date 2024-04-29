@@ -125,7 +125,7 @@ print(y_prednew)
 ## ACCURACY
 ![image](https://github.com/Joshitha-YUVARAJ/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/145742770/aa58ca64-cc6f-4595-99be-a8de5721d8e4)
 
-## Y PRED NEW
+## Y PREDICT NEW
 ![image](https://github.com/Joshitha-YUVARAJ/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/145742770/5316e683-fbe4-4d23-b7f9-7b0c4b042c03)
 
 
