@@ -18,6 +18,18 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 
 5. Calculate the accuracy. 
 
+
+
+
+
+
+
+
+
+
+
+
+
 ## Program:
 ```
 /*
